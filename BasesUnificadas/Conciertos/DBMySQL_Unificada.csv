@@ -1,0 +1,338 @@
+Artists,Country,Period_active,Year,Genre,Tickets Sold,Sales
+The Beatles,United Kingdom,1960–1970,1962,"['Rock', 'pop']",290400000,600000000
+Elvis Presley,United States,1954–1977,1956,"['Rock and roll', 'pop', 'country']",231200000,500000000
+Michael Jackson,United States,1964–2009,1971,"['Pop', 'rock', 'dance', 'soul', 'R&B']",277300000,400000000
+Elton John,United Kingdom,1964–present,1970,"['Pop', 'rock']",208000000,300000000
+Queen,United Kingdom,1971–present,1973,['Rock'],184000000,300000000
+Madonna,United States,1979–present,1983,"['Pop', 'dance', 'electronica']",181700000,300000000
+Led Zeppelin,United Kingdom,1968–1980,1969,"['Hard rock', 'blues rock', 'folk rock']",142400000,300000000
+Rihanna,Barbados,2005–present,2005,"['R&B', 'pop', 'dance', 'hip-hop']",335300000,250000000
+Pink Floyd,United Kingdom,2012–2014,2005,"['Progressive rock', 'psychedelic rock']",123800000,250000000
+Eminem,United States,1996–present,1999,['Hip-hop'],325700000,220000000
+Mariah Carey,United States,1988–present,1990,"['R&B', 'pop', 'soul', 'hip-hop']",205800000,220000000
+Taylor Swift,United States,2006–present,2006,"['Pop', 'country', 'rock', 'folk', 'alternative']",250400000,200000000
+Beyoncé,United States,1997–present,2002,"['R&B', 'pop']",226500000,200000000
+Whitney Houston,United States,1977–2012,1984,"['R&B', 'soul', 'pop', 'gospel']",155300000,200000000
+Eagles,United States, 1994–present,1972,['Rock'],152200000,200000000
+Celine Dion,Canada,1981–present,1981,"['Pop', 'Rock']",143000000,200000000
+AC/DC,Australia,1973–present,1975,"['Hard rock', 'blues rock', 'rock and roll']",130199999,200000000
+The Rolling Stones,United Kingdom,1962–present,1963,"['Rock', 'blues rock']",102700000,200000000
+Drake,Canada,2001–present,2009,"['Hip-hop', 'R&B', 'pop']",413060000,170000000
+Garth Brooks,United States,1989–present,1989,['Country'],165300000,170000000
+Kanye West,United States,1996–present,2003,"['Hip-hop', 'electronic', 'pop']",258300000,160000000
+Billy Joel,United States,1964–present,1971,"['Pop', 'rock']",134400000,160000000
+Justin Bieber,CanadaUnited States,2008–present,2009,"['Pop', 'teen pop', 'dance pop']",277900000,150000000
+Ed Sheeran,United Kingdom,2004–present,2011,"['Pop', 'folk pop']",246700000,150000000
+Bruno Mars,United States,2004–present,2010,"['Pop rock', 'R&B']",203600000,150000000
+Bruce Springsteen,United States,1972–present,1973,['Rock'],127900000,150000000
+U2,Ireland,1976–present,1980,['Rock'],114600000,150000000
+Aerosmith,United States,1970–present,1973,['Hard rock'],104800000,150000000
+Phil Collins,United Kingdom,2015–present,1981,"['Rock', 'progressive rock', 'adult contemporary']",99400000,150000000
+Barbra Streisand,United States,1960–present,1963,"['Pop', 'adult contemporary']",98400000,150000000
+ABBA,Swede,2016–present,1972,"['Pop', 'disco']",69000000,150000000
+Frank Sinatra,United States,1973-1995,1940,"['Pop', 'swing', 'easy listening']",40200000,150000000
+Katy Perry,United States,2001–present,2008,['Pop'],172900000,143000000
+Chris Brown,United States,2005–present,2005,"['Pop', 'R&B', 'hip-hop']",199700000,140000000
+Jay-Z,United States,1996–present,1996,['Hip-hop'],136400000,125000000
+Metallica,United States,1981–present,1983,"['Heavy metal', 'thrash metal']",105600000,125000000
+Lady Gaga,United States,2005–present,2008,"['Pop', 'dance', 'electronic']",159000000,124000000
+Lil Wayne,United States,1996–present,1999,['Hip-hop'],188700000,120000000
+Maroon 5,United States,1994–present,2002,"['Pop rock', 'funk rock', 'dance-pop']",142600000,120000000
+Adele,United Kingdom,2006–present,2008,"['Pop', 'soul']",135400000,120000000
+Red Hot Chili Peppers,United States,1983–present,1987,"['Funk rock', 'alternative rock']",99800000,120000000
+Fleetwood Mac,United Kingdom United States,1967–present,1968,"['Rock', 'pop']",94400000,120000000
+Bon Jovi,United States,1983–present,1983,"['Hard rock', 'glam metal']",88700000,120000000
+Rod Stewart,United Kingdom,1964–present,1969,"['Rock', 'pop']",84900000,120000000
+Bee Gees,United Kingdom Australia,1963–20032009–2012,1963,"['Pop', 'disco']",74700000,120000000
+Nicki Minaj,Trinidad and Tobago,2008–present,2010,"['Hip-hop', 'pop']",156300000,100000000
+Coldplay,United Kingdom,1996–present,1999,"['Alternative rock', 'pop rock', 'pop']",109400000,100000000
+Linkin Park,United States,1996–present,2000,"['Alternative rock', 'nu metal', 'rap rock']",101800000,100000000
+George Strait,United States,1981–present,1984,['Country'],99800000,100000000
+Pink,United States,1995–present,2000,"['Pop', 'pop rock', 'R&B']",90800000,100000000
+Britney Spears,United States,1998–present,1998,"['Pop', 'dance', 'dance-pop']",88700000,100000000
+B'z,Japan,1988–present,1988,"['Rock', 'pop rock', 'hard rock']",86200000,100000000
+Shania Twain,Canada,1993–present,1993,['Country pop'],84800000,100000000
+Guns N' Roses,United States,1985–present,1987,"['Hard rock', 'heavy metal']",80409000,100000000
+Backstreet Boys,United States,1993–present,1995,['Pop'],78000000,100000000
+Eric Clapton,United Kingdom,1962–present,1970,"['Rock', 'blues']",71600000,100000000
+Neil Diamond,United States,1966–present,1966,"['Pop', 'rock']",71100000,100000000
+Prince,United States,1976–2016,1978,"['Funk', 'R&B', 'pop', 'soul', 'rock']",66300000,100000000
+Journey,United States,1973–present,1975,"['Rock', 'soft rock']",65200000,100000000
+Paul McCartney,United Kingdom,1960–present,1970,['Rock'],66000000,100000000
+Janet Jackson,United States,1982–present,1982,"['R&B', 'pop']",65300000,100000000
+Kenny Rogers,United States,1958–2020,1975,"['Country', 'pop']",64700000,100000000
+Santana,United States,1966–present,1969,['Rock'],62800000,100000000
+Simon & Garfunkel,United States,1956–2004,1964,['Folk rock'],62100000,100000000
+George Michael,United Kingdom,1981–2016,1984,['Pop'],52800000,100000000
+Julio Iglesias,Spain,1968–present,1968,['Latin'],51700000,100000000
+Dire Straits,United Kingdom,1977–1995,1978,['Rock'],51700000,100000000
+The Doors,United States,1965–1973,1967,['Psychedelic rock'],50500000,100000000
+Foreigner,United StatesUnited Kingdom,1976–present,1977,"['Rock', 'hard rock']",50400000,100000000
+Chicago,United States,1967–present,1969,"['Rock', 'pop']",48500000,100000000
+Bob Dylan,United States,1959–present,1963,"['Folk', 'rock']",47900000,100000000
+The Carpenters,United States,1969–1983,1969,['Pop'],46700000,100000000
+Meat Loaf,United States,1968–2022,1977,"['Rock', 'hard rock']",46600000,100000000
+Earth Wind Fire,United States,1969–present,1971,"['Funk', 'R&B', 'soul']",44700000,100000000
+Cher,United States,1964–present,1965,"['Pop', 'rock', 'dance', 'folk']",43100000,100000000
+Def Leppard,United Kingdom,1977–present,1979,"['Hard rock', 'heavy metal']",42600000,100000000
+Genesis,United Kingdom,1967–19992006–present,1969,"['Progressive rock', 'pop rock']",40300000,100000000
+David Bowie,United Kingdom,1962–2016,1967,"['Art rock', 'glam rock', 'pop']",41500000,100000000
+Stevie Wonder,United States,1961–present,1962,"['Funk', 'R&B', 'soul']",38900000,100000000
+James Taylor,United States,1968–present,1970,"['Rock', 'pop']",36500000,100000000
+Tina Turner,United States,1958–2009,1960,"['Rock', 'pop']",36400000,100000000
+Olivia Newton-John,Australia,1966–2022,1966,['Pop'],36100000,100000000
+Linda Ronstadt,United States,1967–2011,1968,"['Rock', 'folk', 'country']",33200000,100000000
+The Beach Boys,United States,1961–present,1962,"['Rock', 'pop', 'surf rock']",32700000,100000000
+Donna Summer,United States,1968–2012,1974,"['Pop', 'disco', 'R&B']",31300000,100000000
+Alicia Keys,United States,1996–present,2001,"['Hip-hop', 'R&B', 'pop']",85900000,90000000
+Christina Aguilera,United States,1993–present,1998,"['R&B', 'pop', 'rock']",76600000,90000000
+Lionel Richie,United States,1968–present,1981,"['Pop', 'R&B']",43000000,90000000
+Johnny Cash,United States,1954–2003,1956,"['Country', 'rock and roll', 'gospel']",32200000,90000000
+Justin Timberlake,United States,1992–present,2002,"['Pop', 'R&B', 'neo soul']",83000000,88000000
+Ariana Grande,United States,2008–present,2013,"['Pop', 'R&B']",143200000,85000000
+R.E.M.,United States,1980–2011,1983,['Alternative rock'],45300000,85000000
+Post Malone,United States,2013–present,2015,"['Pop', 'R&B', 'hip-hop']",207000000,80000000
+Flo Rida,United States,2007–present,2007,"['Hip-hop', 'hip house /EDM']",85000000,80000000
+Usher,United States,1991–present,1994,"['R&B', 'pop']",76600000,80000000
+Shakira,Colombia,1988–present,1995,"['Latin pop', 'pop', 'pop rock']",75000000,80000000
+Tim McGraw,United States,1990–present,1994,['Country'],72300000,80000000
+The Black Eyed Peas,United States,1995–present,1998,"['Hip-hop', 'R&B', 'dance']",69800000,80000000
+Van Halen,United States,1978–2020,1978,"['Hard rock', 'heavy metal']",65200000,80000000
+Ayumi Hamasaki,Japan,1998–present,1998,"['J-pop', 'pop', 'dance', 'electronic']",64500000,80000000
+Tom Petty,United States,1976–2017,1977,['Rock'],36000000,80000000
+Johnny Hallyday,France,1957–2017,1960,"['Rock', 'pop']",28900000,80000000
+The Weeknd,Canada,2010–present,2013,"['Pop', 'R&B']",213400000,75000000
+Imagine Dragons,United States,2008–present,2012,"['Pop rock', 'electropop', 'pop']",124400000,75000000
+Luke Bryan,United States,2001–present,2007,"['Country', 'country pop']",84500000,75000000
+Tupac Shakur,United States,1991–1996,1991,['Hip-hop'],60100000,75000000
+Alabama,United States,1972–present,1980,"['Country', 'pop rock']",58000000,75000000
+R. Kelly,United States,1989–2019,1991,"['R&B', 'soul', 'hip-hop']",56800000,75000000
+Nirvana,United States,1987–1994,1990,"['Grunge', 'alternative rock']",56000000,75000000
+Robbie Williams,United Kingdom,1990–present,1996,['Pop rock'],55900000,75000000
+Bob Seger,United States,1961–present,1967,"['Rock', 'Hard rock/ Pop rock']",55300000,75000000
+Kenny G,United States,1982–present,1984,['Smooth jazz'],53900000,75000000
+Green Day,United States,1987–present,1994,"['Punk rock', 'pop punk', 'alternative rock']",53000000,75000000
+Enya,Ireland,1982–present,1987,"['New-age', 'Celtic']",51900000,75000000
+Bryan Adams,Canada,1979–present,1979,['Rock'],49900000,75000000
+Bob Marley,Jamaica,1962–1981,1975,['Reggae'],46300000,75000000
+The Police,United Kingdom,1977–19862007–2008,1978,"['Pop', 'rock']",42200000,75000000
+Gloria Estefan,United States,1975–present,1984,"['Latin pop', 'dance pop']",37600000,75000000
+Barry Manilow,United States,1973–present,1973,"['Pop', 'soft rock']",36700000,75000000
+Kiss,United States,1972–present,1974,"['Hard rock', 'heavy metal']",28700000,75000000
+Aretha Franklin,United States,1956–2018,1961,"['Soul', 'jazz', 'blues', 'R&B']",26600000,75000000
+Shakira,Colombia,1991-presente,1991,['Pop latino/ pop/ dance/ pop rock;'],0,115000000
+Guns N' Roses,Estados Unidos,1985-presente,1987,['Hard rock/ heavy metal'],0,115000000
+Stevie Wonder,Estados Unidos,1961-presente,1962,['Funk/ R&B/ soul'],0,115000000
+Backstreet Boys,Estados Unidos,1993-presente,1995,['Pop'],0,110000000
+Coldplay,Reino Unido,1996-presente,1999,['Alternative rock/ pop rock/ pop'],0,110000000
+Fleetwood Mac,Reino Unido,1967-presente,1968,['Rock/ pop'],0,110000000
+Linkin Park,Estados Unidos,1996–presente,2000,"['Alternative rock', 'Nu metal', 'Rap rock', 'Hip-hop', 'Rock electrónico', 'Pop']",0,110000000
+Maroon 5,Estados Unidos,1994–presente,2002,"['Pop rock', 'Funk rock', 'Dance-pop']",0,110000000
+Miley Cyrus,Estados Unidos,2006– Presente,2006,['Pop/ teen pop/ pop rock/ rhythm and blues/ country pop'],0,110000000
+Prince,Estados Unidos,1976-2016,1978,['Funk/ R&B/ pop/ soul/ rock'],0,110000000
+Linda Ronstadt,Estados Unidos,1967-presente,1968,['Rock/ folk/ country'],0,105000000
+Olivia Newton-John,Australia,1966-2022 ,1966,['Pop'],0,105000000
+Paul McCartney,Reino Unido,1960-presente,1970,['Rock'],0,105000000
+Pink,Estados Unidos,1995–presente,2000,['Pop/ Pop rock/ R&B'],0,105000000
+Charles Aznavour,Francia,1933-2018,1948,['Pop/ cancion francesa/ jazz/ balada/ world music'],0,100000000
+Cher,Estados Unidos,1960-presente,1965,['Pop/ rock/ dance/ folk/ electrónica/ disco/ hard Rock/ hip hop'],0,100000000
+Barry White,Estados Unidos,1972-2003,1973,['R&B/ soul'],0,100000000
+Bob Dylan,Estados Unidos,1959-presente,1963,['Folk/ rock'],0,100000000
+Bryan Adams,Canadá,1979-presente,1979,['Rock'],0,100000000
+B'z,Japón,1988-presente,1988,['Rock/ pop rock/ hard rock'],0,100000000
+Chicago,Estados Unidos,1967-presente,1969,['Rock/ pop'],0,100000000
+David Bowie,Reino Unido,1962-2016,1967,['Art rock/ glam rock/ pop'],0,100000000
+Def Leppard,Reino Unido,1977-presente,1979,['Hard rock/ heavy metal'],0,100000000
+George Strait,Estados Unidos,1981-presente,1984,['Country'],0,100000000
+James Taylor,Estados Unidos,1968-presente,1970,['Pop'],0,100000000
+Johnny Cash,Estados Unidos,1954-2003,1956,['Country/ rock and roll/ gospel'],0,100000000
+Johnny Hallyday;,Francia,1957-2007,1960,['Rock/ pop'],0,100000000
+Kenny Rogers,Estados Unidos,1958-presente,1975,['Country/ pop'],0,100000000
+Neil Diamond,Estados Unidos,1966-presente,1966,['Pop/ rock'],0,100000000
+Santana;,Estados Unidos México,1966-presente,1969,['Rock'],0,100000000
+The Beach Boys,Estados Unidos,1961-presente,1962,['Rock/ pop/ surf rock'],0,100000000
+The Doors,Estados Unidos,1965-1973,1967,['Rock;'],0,100000000
+The Who,Reino Unido,1964-presente,1965,['Rock/ hard rock'],0,100000000
+Christina Aguilera,Estados Unidos,1999-presente,1999,['Pop/ R&B/ dance pop/ teen pop'],0,95000000
+Earth-Wind & Fire,Estados Unidos,1969-presente,1971,['Funk/ R&B/ soul'],0,95000000
+Flda,Estados Unidos,2007-presente,2007,['Hip hop/ hip house/ EDM'],0,95000000
+Lionel Richie,Estados Unidos,1968-presente,1981,['Pop/ R&B'],0,95000000
+Dire Straits,Reino Unido;,1977-1995,1978,['Rock/ pop'],0,90000000
+Justin Timberlake,Estados Unidos,1992–presente,2002,['Pop/ R&B/ Neo soul'],0,90000000
+Nicki Minaj,Trinidad y Tobago,2007-presente,2007,"['Hip hop', 'Urban Pop', 'Rap', 'Hip Hop', 'R&B', 'Dance', 'Trap']",0,90000000
+Shania Twain,Canadá,1993-presente,1993,['Country pop'],0,90000000
+The Carpenters,Estados Unidos,1969-1983,1969,['Pop'],0,90000000
+Bob Marley,Jamaica,1962-1981,1975,['Reggae'],0,85000000
+Foreigner,Estados Unidos,1976-presente,1977,['Rock/ hard rock'],0,85000000
+George Michael,Reino Unido,1981-2016,1984,['Pop'],0,85000000
+R.E.M.,Estados Unidos,1980-2011,1983,['Rock alternativo'],0,85000000
+Red Hot Chili Peppers,Estados Unidos,1983-presente,1987,['Funk rock/ rock alternativo'],0,85000000
+Tom Petty,Estados Unidos,1976-2017,1977,['Rock'],0,85000000
+Aretha Franklin,Estados Unidos,1956-2018,1961,['Soul/ jazz/ blues/ R&B'],0,80000000
+Kiss,Estados Unidos,1973-presente,1974,['Hard rock/ heavy metal;'],0,80000000
+Nirvana,Estados Unidos,1987-1994,1989,['Grunge/ rock alternativo'],0,80000000
+Reba McEntire,Estados Unidos,1975-presente,1987,[' Country/ country pop'],0,80000000
+The Police,Reino Unido,1977-1986,1978,['Pop/ rock'],0,80000000
+Van Halen,Estados Unidos,1978-2020,1978,['Hard rock/ heavy metal'],0,80000000
+Alabama,Estados Unidos,1972-presente,1980,['Country/ pop rock;'],0,75000000
+Gloria Estefan, ,1980–presente,1980,['Pop latino/ pop/ dance/ pop rock/ Salsa/ adult contemporary'],0,75000000
+Ayumi Hamasaki,Japón,1998-presente,1998,['J-pop/ dance/ electrónica/ pop'],0,75000000
+Barry Manilow,Estados Unidos,1973-presente,1973,['Pop/ soft rock'],0,75000000
+Carole King,Estados Unidos,1962-presente,1962,['Folk Rock/ Pop /Soft rock/ Jazz'],0,75000000
+Enya,Irlanda,1982-presente,1987,['New age/ celta'],0,75000000
+Journey;,Estados Unidos,1973-presente,1975,['Rock/ soft rock'],0,75000000
+Kenny G,Estados Unidos;,1982-presente,1984,['Smooth jazz'],0,75000000
+Meat Loaf,Estados Unidos,1968-presente,1977,['Hard rock'],0,75000000
+Robbie Williams;,Reino Unido,1990-presente,1996,['Pop rock'],0,75000000
+The Black Eyed Peas,Estados Unidos,1995-presente,1998,['Hip hop/ R&B/ dance'],0,75000000
+Usher,Estados Unidos,1991-presente,1994,['R&B/ pop'],0,75000000
+U2,,,0,['null'],26178043,2127771684
+Dave Matthews Band,,,0,['null'],23279056,1085558730
+The Rolling Stones,,,0,['null'],22137799,2165280638
+Bruce Springsteen & The E Street Band,,,0,['null'],20845687,1527407373
+Elton John,,,0,['null'],19756467,1748183036
+Metallica,,,0,['null'],19468173,1219599179
+Bon Jovi,,,0,['null'],17750044,1329891400
+Billy Joel,,,0,['null'],16973102,1187103345
+Kenny Chesney,,,0,['null'],16410448,1110826825
+Grateful Dead,,,0,['null'],15549243,333448841
+Trans-Siberian Orchestra,,,0,['null'],15276864,768990894
+Phish,,,0,['null'],13501959,595859900
+Aerosmith,,,0,['null'],13336974,603229413
+Jimmy Buffett,,,0,['null'],13336974,574642619
+Rod Stewart,,,0,['null'],13173925,796050406
+Neil Diamond,,,0,['null'],12948499,629290686
+Coldplay,,,0,['null'],12532987,1038862173
+George Strait,,,0,['null'],12287930,631306474
+Tim McGraw,,,0,['null'],12266482,679879416
+Ed Sheeran,,,0,['null'],11865380,968919574
+Madonna,,,0,['null'],11672443,1389746222
+AC/DC,,,0,['null'],11512424,668427967
+Def Leppard,,,0,['null'],11321650,514231844
+Garth Brooks,,,0,['null'],11150318,319196946
+Eagles,,,0,['null'],10995128,1314544780
+Celine Dion,,,0,['null'],10906984,1354352578
+“Vans Warped Tour”,,,0,['null'],10524715,296571532
+Paul McCartney,,,0,['null'],10459620,1193812645
+Journey;,,,0,['null'],9958624,470947895
+KISS,,,0,['null'],9867419,532363017
+Taylor Swift,,,0,['null'],9564669,924991375
+Beyoncé,,,0,['null'],9388305,1012704645
+Alan Jackson,,,0,['null'],9381862,316545305
+Depeche Mode,,,0,['null'],9234197,573340442
+Iron Maiden,,,0,['null'],9187132,475817777
+ZZ Top,,,0,['null'],9104788,278705470
+Toby Keith,,,0,['null'],8993561,385025019
+Roger Waters,,,0,['null'],8986408,841218937
+Brooks & Dunn,,,0,['null'],8920454,307344897
+James Taylor,,,0,['null'],8889534,446358547
+André Rieu,,,0,['null'],8846118,783135491
+Mötley Crüe,,,0,['null'],8748806,367345912
+Rush,,,0,['null'],8593428,341767928
+Guns N’ Roses,,,0,['null'],8470755,751306152
+P!nk,,,0,['null'],8184164,762537822
+New Kids On The Block,,,0,['null'],8150649,343673394
+Brad Paisley,,,0,['null'],8110175,328729431
+Luke Bryan,,,0,['null'],8084571,451015348
+Chicago;,,,0,['null'],7827390,308815915
+Santana;,,,0,['null'],7694036,338300077
+Tom Petty & The Heartbreakers,,,0,['null'],7666481,340201810
+Rascal Flatts,,,0,['null'],7611793,350510245
+Van Halen,,,0,['null'],7483253,295611828
+Kenny Rogers,,,0,['null'],7391819,160874511
+Jay-Z,,,0,['null'],7369440,707623058
+Fleetwood Mac,,,0,['null'],7329435,663614335
+Bryan Adams,,,0,['null'],7322151,342222336
+Eric Clapton,,,0,['null'],7285748,455359554
+Bob Dylan,,,0,['null'],7252904,391967919
+Backstreet Boys,,,0,['null'],7241922,403086512
+One Direction,,,0,['null'],7198709,570704406
+Justin Bieber,,,0,['null'],7102199,597226417
+Pearl Jam,,,0,['null'],7006815,351816504
+“Winter Jam”,,,0,['null'],6999205,92430212
+Cher,,,0,['null'],6975802,589070172
+Red Hot Chili Peppers,,,0,['null'],6846945,391478473
+Zac Brown Band,,,0,['null'],6844771,341949199
+Justin Timberlake,,,0,['null'],6772285,697034020
+Jason Aldean,,,0,['null'],6706704,309612072
+Barry Manilow,,,0,['null'],6564840,372879355
+John Mayer,,,0,['null'],6564458,384262725
+Sting,,,0,['null'],6558323,368547305
+Reba McEntire,,,0,['null'],6542791,215180377
+Alabama,,,0,['null'],6460782,169613516
+Michael Bublé,,,0,['null'],6309902,581249622
+Lynyrd Skynyrd,,,0,['null'],6262495,174624299
+Britney Spears,,,0,['null'],6243044,467150890
+Muse,,,0,['null'],6124001,413911387
+David Copperfield,,,0,['null'],6105563,233571798
+Ozzy Osbourne,,,0,['null'],6006522,186754231
+Jeff Dunham,,,0,['null'],5959342,288655286
+The Who,,,0,['null'],5920078,319253907
+Scorpions,,,0,['null'],5864625,271865172
+Foo Fighters,,,0,['null'],5815511,397110491
+Widespread Panic,,,0,['null'],5733154,202238368
+NSYNC,,,0,['null'],5699118,248809096
+The Allman Brothers Band,,,0,['null'],5693922,181678393
+Pink Floyd,,,0,['null'],5662178,159560275
+Nickelback,,,0,['null'],5605065,282043003
+Keith Urban,,,0,['null'],5517212,323896144
+Bruno Mars,,,0,['null'],5505715,578497462
+Lady Gaga,,,0,['null'],5496628,589812585
+Bob Seger & The Silver Bullet Band,,,0,['null'],5447555,286494645
+Shania Twain,,,0,['null'],5437736,345182245
+Maroon 5,,,0,['null'],5423977,404506431
+Genesis;,,,0,['null'],5343365,291368338
+Luis Miguel,,,0,['null'],5272247,404182511
+Willie Nelson,,,0,['null'],5143046,194245674
+Tina Turner,,,0,['null'],5085070,282241376
+John Mellencamp,,,0,['null'],5067470,189413061
+The Police,,,0,['null'],4868112,367803487
+Jonas Brothers,,,0,['null'],4863439,347057679
+Phil Collins,,,0,['null'],4812282,306514774
+Kid Rock,,,0,['null'],4782884,186416121
+Green Day,,,0,['null'],4764387,204959692
+The Beach Boys,,,0,['null'],4760033,142899738
+Prince,,,0,['null'],4510868,253079093
+Janet Jackson,,,0,['null'],4504161,227141925
+Tool,,,0,['null'],4483293,269044896
+Eric Church,,,0,['null'],4470956,307932127
+Steve Miller Band,,,0,['null'],4399872,121386008
+The Moody Blues,,,0,['null'],4334730,164082144
+Take That,,,0,['null'],4300468,424251644
+“American Idol Live”,,,0,['null'],4213658,218274919
+Bill Gaither & Friends “Homecoming”,,,0,['null'],4159618,101511120
+Katy Perry,,,0,['null'],3930468,340240118
+Carrie Underwood,,,0,['null'],3927489,243650517
+Poison,,,0,['null'],3911113,77878900
+Marc Anthony,,,0,['null'],3871149,326378749
+“Ozzfest”,,,0,['null'],3802261,174320095
+Neil Young,,,0,['null'],3799121,168656842
+Styx,,,0,['null'],3782783,114939036
+Lionel Richie,,,0,['null'],3727651,214120019
+Rihanna,,,0,['null'],3703214,296501318
+Drake,,,0,['null'],3694237,344382588
+Yanni,,,0,['null'],3643584,190851725
+R.E.M.,,,0,['null'],3640879,128324243
+Westlife,,,0,['null'],3619555,197884258
+The Chicks,,,0,['null'],3618800,210091990
+Florida Georgia Line,,,0,['null'],3573225,182100546
+Vince Gill,,,0,['null'],3552060,78930377
+Mannheim Steamroller,,,0,['null'],3548707,168998912
+Kings Of Leon,,,0,['null'],3492056,196436312
+311,,,0,['null'],3482392,97563762
+David Bowie,,,0,['null'],3477064,109824876
+Heart,,,0,['null'],3433299,102949240
+Foreigner,,,0,['null'],3404022,94477744
+Enrique Iglesias,,,0,['null'],3403251,250315869
+“Honda Civic Tour”,,,0,['null'],3381655,168212480
+REO Speedwagon,,,0,['null'],3337264,75302045
+Daryl Hall & John Oates,,,0,['null'],3322314,125240529
+Motley Crue,,,0,['null'],3303463,58747851
+Barenaked Ladies,,,0,['null'],3297936,105681814
+matchbox twenty,,,0,['null'],3271278,125294278
+Casting Crowns,,,0,['null'],3264436,102722423
+Blink-182,,,0,['null'],3253588,109850166
+Ron White,,,0,['null'],3253117,155830726
+The Cure,,,0,['null'],3221620,135860764
+Linkin Park,,,0,['null'],3211166,164426280
+Andrea Bocelli,,,0,['null'],3196704,480312153
